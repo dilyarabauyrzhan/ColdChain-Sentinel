@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+*.exp
+
+# Temporary files
+*.tmp
+*.log
