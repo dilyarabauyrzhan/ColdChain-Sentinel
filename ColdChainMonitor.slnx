@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../ColdChainTests/ColdChainTests.csproj" />
   <Project Path="ColdChainMonitor.csproj" />
+  <Project Path="ColdChainTests/ColdChainTests.csproj" />
 </Solution>

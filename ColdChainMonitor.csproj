@@ -17,4 +17,8 @@
     </Content>
   </ItemGroup>
 
+	<ItemGroup>
+		<Compile Remove="ColdChainTests/**/*.cs" />
+	</ItemGroup>
+
 </Project>

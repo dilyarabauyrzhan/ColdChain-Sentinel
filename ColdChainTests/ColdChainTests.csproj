@@ -15,11 +15,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ColdChainMonitor\ColdChainMonitor.csproj" />
-  </ItemGroup>
+	  <ProjectReference Include="..\ColdChainMonitor.csproj" />  </ItemGroup>
 
   <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
+
+	<ItemGroup>
+		<None Include="..\bin\$(Configuration)\net10.0\NativeRisk.dll"
+			  Link="NativeRisk.dll"
+			  CopyToOutputDirectory="PreserveNewest" />
+	</ItemGroup>
 
 </Project>
