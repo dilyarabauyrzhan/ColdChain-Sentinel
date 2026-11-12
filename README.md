@@ -35,7 +35,7 @@ The application also integrates a native C library through P/Invoke to perform a
 **Calling convention:** Cdecl  
 **MSVC compiler version:** `19.51.36260`  
 **Architecture:** x64  
-**.NET SDK version:** 10.x (record the exact installed version using `dotnet --version`).
+**.NET SDK version:** 11.0.100-rc.3.26522.148
 
 ## 3. Project Structure
 
@@ -400,7 +400,7 @@ The individual contribution report provides a more detailed explanation of the i
 **Project:** ColdChain Sentinel  
 **Repository:** https://github.com/dilyarabauyrzhan/ColdChain-Sentinel  
 **Branch:** `main`  
-**Final commit identifier:** To be updated after the final project changes are committed.
+
 
 The submitted project archive must correspond to the final commit in this repository.
 
